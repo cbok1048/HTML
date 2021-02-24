@@ -1,0 +1,20 @@
+
+header h2{
+  color : blue;
+}
+/*type */
+h2{
+  color:red;
+/*type */
+}
+h3{
+  color: green;
+}
+/*class >type*/
+.color {
+  color:greenyellow;
+}
+/* 우선순의는 id > class > type */
+#color {
+  color:rebeccapurple;
+}
